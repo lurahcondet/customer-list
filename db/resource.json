@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Didi",
+        "email": "jalapro08@gmail.com",
+        "password": "Kusnadi",
+        "gender": "Male",
+        "married": "No",
+        "address": "Cluster Pesona Teratai 3, No. B33\r\nJl. Raya Kalimulya, Gg. Pilus, RT 01\/02 Cilodong",
+        "id": 20
+    },
+    {
+        "name": "Didi 2",
+        "email": "jalapro08@gmail.com",
+        "password": "Kusnadi",
+        "gender": "Female",
+        "married": "No",
+        "address": "Cluster Pesona Teratai 3, No. B33\r\nJl. Raya Kalimulya, Gg. Pilus, RT 01\/02 Cilodong",
+        "id": 21
+    }
+]
